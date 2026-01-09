@@ -3,6 +3,7 @@
 ## Description
 A C++ console application that manages a cosmetics inventory and generates structured sales reports. 
 The program provides menu-driven options to display the full report, filter products by category, filter by maximum price, and compute summary statistics.
+This project was built as part of my CIS-121 coursework to apply core C++ programming concepts to a real-world business-style reporting system.
 
 ## Features
 - Menu-driven report system
